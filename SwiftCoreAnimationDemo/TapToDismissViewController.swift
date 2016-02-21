@@ -11,7 +11,6 @@ import UIKit
 class TapToDismissViewController: UIViewController {
 
     var aLayer:CALayer!
-//    var aView:UIView!
     var goButton:UIButton!
     
     override func viewDidLoad() {
