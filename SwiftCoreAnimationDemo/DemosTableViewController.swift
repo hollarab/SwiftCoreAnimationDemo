@@ -21,6 +21,7 @@ class DemosTableViewController: UITableViewController {
         ("Image", { return UseImageViewController() } ),
         ("Rotation", { return RotationViewController() } ),
         ("Sub Layer", { return SubLayerViewController() } ),
+        ("Anchor", { return AnchorViewController() } ),
         ("Repeat / Reverse", { return RepeatingAnimationViewController() } ),
         ("Size", { return SizeViewController() } ),
         ("UIView based", { return UIViewExampleViewController() } ),

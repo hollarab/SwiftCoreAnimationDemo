@@ -25,6 +25,7 @@
 		455275ED1C794BBB0060FE98 /* SizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455275EC1C794BBB0060FE98 /* SizeViewController.swift */; };
 		45B50D801C79513500CD2713 /* UIViewExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B50D7F1C79513500CD2713 /* UIViewExampleViewController.swift */; };
 		45B50D821C7A164A00CD2713 /* SwapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B50D811C7A164A00CD2713 /* SwapViewController.swift */; };
+		45B50D841C7A1B7400CD2713 /* AnchorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B50D831C7A1B7400CD2713 /* AnchorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		455275EC1C794BBB0060FE98 /* SizeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SizeViewController.swift; sourceTree = "<group>"; };
 		45B50D7F1C79513500CD2713 /* UIViewExampleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExampleViewController.swift; sourceTree = "<group>"; };
 		45B50D811C7A164A00CD2713 /* SwapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwapViewController.swift; sourceTree = "<group>"; };
+		45B50D831C7A1B7400CD2713 /* AnchorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnchorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 				455275E81C79367B0060FE98 /* UseImageViewController.swift */,
 				455275E01C791D850060FE98 /* RotationViewController.swift */,
 				455275E61C79318B0060FE98 /* SubLayerViewController.swift */,
+				45B50D831C7A1B7400CD2713 /* AnchorViewController.swift */,
 				455275EA1C793A4C0060FE98 /* RepeatingAnimationViewController.swift */,
 				455275EC1C794BBB0060FE98 /* SizeViewController.swift */,
 				45B50D7F1C79513500CD2713 /* UIViewExampleViewController.swift */,
@@ -310,6 +313,7 @@
 				453A8A931C78EFCD00DD84A1 /* TapToDismissViewController.swift in Sources */,
 				453A8A601C78EEF200DD84A1 /* AppDelegate.swift in Sources */,
 				455275EB1C793A4C0060FE98 /* RepeatingAnimationViewController.swift in Sources */,
+				45B50D841C7A1B7400CD2713 /* AnchorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
