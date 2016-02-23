@@ -16,7 +16,6 @@ class RotationViewController: TapToDismissViewController {
         rotateAnimation.toValue = CGFloat(M_PI * 0.3)
         rotateAnimation.duration = 1.0
         rotateAnimation.repeatCount = 1
-        rotateAnimation.delegate = self
         
         // Set these two this way to get rotation to "stick"
         rotateAnimation.removedOnCompletion = false

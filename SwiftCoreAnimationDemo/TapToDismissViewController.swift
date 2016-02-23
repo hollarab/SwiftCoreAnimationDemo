@@ -63,3 +63,9 @@ extension CALayer {
         self.cornerRadius = (10/57) * min(self.frame.size.height, self.frame.size.width)
     }
 }
+
+
+
+
+
+
